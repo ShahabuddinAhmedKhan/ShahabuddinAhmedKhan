@@ -39,6 +39,12 @@ I’m a passionate **Full Stack Developer** with a focus on building **web appli
 
 ---
 
+### 🏆 **Top Languages**:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahabuddinAhmedKhan&layout=compact&theme=dark)
+
+---
+
 ### 💼 **Experience**:
 - **Full-stack Web Development**: Built scalable, dynamic web applications using the **MERN stack**. Focused on responsive design and optimized performance.
 - **Machine Learning**: Worked with libraries like **PyTorch** and **Scikit-learn** for model training, data preprocessing, and statistical analysis.
@@ -53,10 +59,6 @@ Feel free to explore my repositories and collaborate on exciting projects!
 
 ---
 
-### 📊 **GitHub Stats**:
 
-![Shahabuddin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShahabuddinAhmedKhan&show_icons=true&theme=dark)
 
-### 🏆 **Top Languages**:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahabuddinAhmedKhan&layout=compact&theme=dark)
