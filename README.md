@@ -7,31 +7,31 @@ I’m a passionate **Full Stack Developer** with a focus on building **web appli
 ### 🔧 **Technologies & Tools**:
 
 - **Programming Languages**:  
-  <img src="https://img.icons8.com/ios/50/000000/python.png" alt="Python" width="30"/>&nbsp;Python  
-  <img src="https://img.icons8.com/ios/50/000000/javascript.png" alt="JavaScript" width="30"/>&nbsp;JavaScript  
+  ![Python](https://img.icons8.com/ios/50/000000/python.png) Python  
+  ![JavaScript](https://img.icons8.com/ios/50/000000/javascript.png) JavaScript  
 
 - **Web Technologies**:  
-  <img src="https://img.icons8.com/ios/50/000000/html-5.png" alt="HTML5" width="30"/>&nbsp;HTML5  
-  <img src="https://img.icons8.com/ios/50/000000/css3.png" alt="CSS3" width="30"/>&nbsp;CSS3  
-  <img src="https://img.icons8.com/ios/50/000000/react-native.png" alt="React" width="30"/>&nbsp;React  
-  <img src="https://img.icons8.com/ios/50/000000/nodejs.png" alt="Node.js" width="30"/>&nbsp;Node.js  
-  <img src="https://img.icons8.com/ios/50/000000/express-js.png" alt="Express.js" width="30"/>&nbsp;Express.js  
-  <img src="https://img.icons8.com/ios/50/000000/tailwindcss.png" alt="Tailwind CSS" width="30"/>&nbsp;Tailwind CSS
+  ![HTML5](https://img.icons8.com/ios/50/000000/html-5.png) HTML5  
+  ![CSS3](https://img.icons8.com/ios/50/000000/css3.png) CSS3  
+  ![React](https://img.icons8.com/ios/50/000000/react-native.png) React  
+  ![Node.js](https://img.icons8.com/ios/50/000000/nodejs.png) Node.js  
+  ![Express.js](https://img.icons8.com/ios/50/000000/express-js.png) Express.js  
+  ![Tailwind CSS](https://img.icons8.com/ios/50/000000/tailwindcss.png) Tailwind CSS
 
 - **Database Systems**:  
-  <img src="https://img.icons8.com/ios/50/000000/mongodb.png" alt="MongoDB" width="30"/>&nbsp;MongoDB  
-  <img src="https://img.icons8.com/ios/50/000000/sql.png" alt="SQL" width="30"/>&nbsp;SQL  
-  <img src="https://img.icons8.com/ios/50/000000/firebase.png" alt="Firebase" width="30"/>&nbsp;Firebase
+  ![MongoDB](https://img.icons8.com/ios/50/000000/mongodb.png) MongoDB  
+  ![SQL](https://img.icons8.com/ios/50/000000/sql.png) SQL  
+  ![Firebase](https://img.icons8.com/ios/50/000000/firebase.png) Firebase
 
 - **Data Science & Machine Learning**:  
-  <img src="https://img.icons8.com/ios/50/000000/matplotlib.png" alt="Matplotlib" width="30"/>&nbsp;Matplotlib  
-  <img src="https://img.icons8.com/ios/50/000000/seaborn.png" alt="Seaborn" width="30"/>&nbsp;Seaborn  
-  <img src="https://img.icons8.com/ios/50/000000/pytorch.png" alt="PyTorch" width="30"/>&nbsp;PyTorch  
-  <img src="https://img.icons8.com/ios/50/000000/scikit-learn.png" alt="Scikit-learn" width="30"/>&nbsp;Scikit-learn
+  ![Matplotlib](https://img.icons8.com/ios/50/000000/matplotlib.png) Matplotlib  
+  ![Seaborn](https://img.icons8.com/ios/50/000000/seaborn.png) Seaborn  
+  ![PyTorch](https://img.icons8.com/ios/50/000000/pytorch.png) PyTorch  
+  ![Scikit-learn](https://img.icons8.com/ios/50/000000/scikit-learn.png) Scikit-learn
 
 - **Version Control**:  
-  <img src="https://img.icons8.com/ios/50/000000/git.png" alt="Git" width="30"/>&nbsp;Git  
-  <img src="https://img.icons8.com/ios/50/000000/github.png" alt="GitHub" width="30"/>&nbsp;GitHub
+  ![Git](https://img.icons8.com/ios/50/000000/git.png) Git  
+  ![GitHub](https://img.icons8.com/ios/50/000000/github.png) GitHub
 
 - **Specialized Areas**:  
   ⚡ **MERN Stack**  
@@ -39,7 +39,7 @@ I’m a passionate **Full Stack Developer** with a focus on building **web appli
   📦 **Web Application Deployment**
 
 - **Other Tools & Technologies**:  
-  <img src="https://img.icons8.com/ios/50/000000/npm.png" alt="npm" width="30"/>&nbsp;npm
+  ![npm](https://img.icons8.com/ios/50/000000/npm.png) npm
 
 - **Research Skills**:  
   🔍 **Algorithm Analysis**  
@@ -50,8 +50,8 @@ I’m a passionate **Full Stack Developer** with a focus on building **web appli
 ---
 
 ### 🌱 **Currently Learning**:
-- <img src="https://img.icons8.com/ios/50/000000/typescript.png" alt="TypeScript" width="30"/>&nbsp;TypeScript  
-- <img src="https://img.icons8.com/ios/50/000000/nextjs.png" alt="Next.js" width="30"/>&nbsp;Next.js
+- ![TypeScript](https://img.icons8.com/ios/50/000000/typescript.png) TypeScript  
+- ![Next.js](https://img.icons8.com/ios/50/000000/nextjs.png) Next.js
 
 ---
 
