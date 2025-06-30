@@ -44,16 +44,7 @@ Feel free to explore my repositories and collaborate on exciting projects!
 
 ---
 
-### 📱 **Find Me On**:
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/shawon.bin.sayed/)  
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/zeusinee/)
+### 📱 **Also Find Me On**:
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/shawon.bin.sayed/)   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/zeusinee/)
 
----
 
-### 📊 **GitHub Stats**:
-
-![Shahabuddin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShahabuddinAhmedKhan&show_icons=true&theme=dark)
-
-### 🏆 **Top Languages**:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahabuddinAhmedKhan&layout=compact&theme=dark)
