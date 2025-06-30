@@ -1,4 +1,7 @@
-# 👋 Hi there, I'm **Shahabuddin Ahmed Khan**!
+<p align="center">
+  <img src="https://github.com/ShahabuddinAhmedKhan/ShahabuddinAhmedKhan/blob/7fc00e31c814623ca5edd46b7547af6200b0a5a7/intro%202.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
+
 
 I’m a passionate **Full Stack Developer** with a focus on building **web applications** and creating solutions that make an impact. I have experience in **MERN Stack** development, **data science**, and **machine learning**, and I enjoy exploring new technologies to constantly improve my skill set.
 
