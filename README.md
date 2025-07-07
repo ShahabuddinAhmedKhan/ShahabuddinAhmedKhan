@@ -3,7 +3,7 @@
 </p>
 
 
-I’m a passionate **Full Stack Developer** with a focus on building **web applications** and creating solutions that make an impact. I have experience in **MERN Stack** development, **data science**, and **machine learning**, and I enjoy exploring new technologies to constantly improve my skill set.
+I’m an AI/ML enthusiast and passionate **Full Stack Developer** with a focus on building **web applications** and creating solutions that make an impact. I have experience in **MERN Stack** development, **data science**, and **machine learning**, and I enjoy exploring new technologies to constantly improve my skill set.
 
 ---
 
